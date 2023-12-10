@@ -1,7 +1,6 @@
 # Hydroneer-Mods
 All the golden hydroneer mods I made that were removed from the workshop.
 
----------------
 Super Boosters:
 ---------------
 Tired of having to load shards into all your boosters?
@@ -37,7 +36,7 @@ Mouse scroll wheel to change distance between sphere and player.
 Right mouse click while holding the tool to open resource selection menu. Choose resource type to attract.
 
 Credits to Kodiak for source code reference material.
--------------------
+
 Golden Fishing Pot:
 -------------------
 Tired of the fishing pot taking ages to catch a fish and not being able to place it anywhere but only in water near plots of land?
@@ -47,7 +46,7 @@ The Golden Fishing Pot takes care of both problems!
 With a Golden Fishing Pot you can place it anywhere you want and catch fish every 3 seconds!
 
 The Golden Fishing Pot is located at the fishing store behind ember cradle and costs 300 hydrocoin.
-------------
+
 ATM Machine:
 ------------
 Have you ever wanted a way to store your money and be able to retrieve a specific amount?
@@ -77,7 +76,7 @@ on/off - powers machine on/off.
 all - sets the withdraw amount to the entire balance.
 
 Rename the bank card by left clicking it when its on the ground.
-------------------
+
 Ultimate Seed Bag:
 ------------------
 This ordinary looking seed bag holds ultimate power!
@@ -85,7 +84,7 @@ This ordinary looking seed bag holds ultimate power!
 You can now have infinite seeds of any veggie you choose!
 
 Just left click on the bag to change veggie!
---------------------
+
 Portable Sell Table:
 --------------------
 Tired of running to the jeweler or grocer all the time?
@@ -99,7 +98,7 @@ Use the front button to change between jeweler mode and grocer mode.
 The Portable Sell Table can be purchased at RFC shop on the top floor for 25,000 hydrocoin.
 
 Credits to BassBoostedDuck#0437 for troubleshooting help.
----------------
+
 Harvester Hook:
 ---------------
 The Harvester Hook gives you the functionality of a harvester in a hook!
@@ -107,7 +106,7 @@ The Harvester Hook gives you the functionality of a harvester in a hook!
 Now you can get resources from dirt right on the belt without taking up space with a traditional harvester!
 
 You can find the Harvester Hook at RFC shop for 30,000 hydrocoins.
--------------------
+
 Currency Converter:
 -------------------
 Tired of grinding away for hours to get farm and prospect tokens when you have plenty of hydrocoins laying around but can't buy farm equipment or T3 items?
@@ -129,7 +128,7 @@ Conversion Rate:
 100 hydrocoin = 1 farm Token/1 Prospect Token
 
 1 farm Token = 1 Prospect Token
-----------------
+
 Farm Token Mill:
 ----------------
 Tired of spending hours selling soup for farm tokens?
@@ -154,7 +153,7 @@ Cut Broccoli -> Weight x 15
 Cut Beetroot -> Weight x 20
 
 Buy the farm token mill at the farm store for 500 tokens!
---------------------
+
 Golden Watering Can:
 --------------------
 The Golden Watering Can never needs to be refilled!
@@ -162,13 +161,13 @@ The Golden Watering Can never needs to be refilled!
 Enjoy infinite water for all your gardening needs!
 
 Available on top floor of RFC shop for 900 hydrocoins.
--------------------
+
 Golden Intake Pipe: 
 -------------------
 This new and improved intake pipe works on land, gives pure water, and has max T3 base pressure without intake boosters!
 
 Available at RFC Shop!
-----------
+
 Mega Nuke:
 ----------
 Want bigger explosions?
@@ -178,7 +177,7 @@ Look no further! Introducing the Mega Nuke!
 This nuke is 10 times as powerful as mini nuke! It also comes in a throwable version!
 
 Pick up a mega nuke in RFC Shop and enjoy destroying hydroneer!
-----------
+
 God Drill:
 ----------
 Do you want ultimate mining power?
@@ -194,7 +193,7 @@ The God Drill produces raw resources straight from the chute bypassing the need 
 The resources are produced at super fast rate!
 
 Enjoy your journey to ultimate power!
---------------
+
 Golden Funnel:
 --------------
 Want a better funnel instead of the crappy default one?
@@ -202,7 +201,7 @@ Want a better funnel instead of the crappy default one?
 Buy a golden funnel at RFC mod shop today!
 
 Also includes funnel extension tubes to eliminate dirt chunk losses for stacked drills!
------------
+
 Golden Pan:
 -----------
 Need better resources from panning to get a big boost when starting a new game?
@@ -214,7 +213,7 @@ The Golden Pan is larger than the regular pan so it will hold bigger items and h
 Buy the golden pan today for only 900 coins!
 
 Available at ember cradle, bridgepour, Icehelm, and RFC Shop!
------------
+
 Golden Rod:
 -----------
 Tired of slow boring fishing?
@@ -224,17 +223,17 @@ Then get yourself a golden rod and have the power to catch fish instantly! No mo
 This rod catches rare fish at large size!
 
 Buy the golden rod at RFC Shop today!
-----------------
+
 Golden Machines:
 ----------------
 Want fast T3 machines that mine bigger resources?
 
 Purchase the new and improved T3 Golden machines at RFC Shop today!
------------------------
+
 Buyable Creative Items:
 -----------------------
 You can now buy creative items at RFC Shop without being in creative mode!
-------------
+
 Golden Cart:
 ------------
 Tired of carts being too small, slow, and clunky?
@@ -242,7 +241,7 @@ Tired of carts being too small, slow, and clunky?
 The golden cart is super fast, super agile, and has wide open space for for loading large items!
 
 Buy a golden cart at RFC Shop today!
-------------
+
 Blundergust:
 ------------
 Have you ever wanted to troll NPCs or your friends?
@@ -252,7 +251,7 @@ Well now you can with the Blundergust!
 Just aim and shoot with left mouse click to fire a powerful gust of air that launches NPCs or your friends into the air!!
 
 The Blundergust is located on the table on ground floor of RFC shop and costs 500,000 hydrocoin.
--------------------
+
 Achievement Toggle
 -------------------
 Tired of achievements being disabled?
