@@ -9,7 +9,7 @@ Well now you don't have to!
 
 With Super Boosters you can boost water pressure to max of the tier level of the booster!
 
-Super Boosters are located on the top floor of RFC shop.
+Super Boosters are located on the top floor of Golden Mods Shop.
 
 T1 = 200 hydrocoin
 
@@ -95,7 +95,7 @@ You can even sell whole and cut veggies for farm tokens!
 
 Use the front button to change between jeweler mode and grocer mode.
 
-The Portable Sell Table can be purchased at RFC shop on the top floor for 25,000 hydrocoin.
+The Portable Sell Table can be purchased at Golden Mods Shop on the top floor for 25,000 hydrocoin.
 
 Credits to BassBoostedDuck#0437 for troubleshooting help.
 
@@ -105,7 +105,7 @@ The Harvester Hook gives you the functionality of a harvester in a hook!
 
 Now you can get resources from dirt right on the belt without taking up space with a traditional harvester!
 
-You can find the Harvester Hook at RFC shop for 30,000 hydrocoins.
+You can find the Harvester Hook at Golden Mods Shop for 30,000 hydrocoins.
 
 Currency Converter:
 -------------------
@@ -115,7 +115,7 @@ Now you can convert your hydrocoins to farm and prospect tokens using the curren
 
 You can also convert your farm and prospect tokens to hydrocoins!
 
-The currency converter can be found at the RFC shop under the gem trophies and costs 35,000 hydrocoins.
+The currency converter can be found at the Golden Mods Shop under the gem trophies and costs 35,000 hydrocoins.
 
 To use this machine place it down then drop coins or tokens on the top and press the button on the front.
 
@@ -160,13 +160,13 @@ The Golden Watering Can never needs to be refilled!
 
 Enjoy infinite water for all your gardening needs!
 
-Available on top floor of RFC shop for 900 hydrocoins.
+Available on top floor of Golden Mods Shop for 900 hydrocoins.
 
 Golden Intake Pipe: 
 -------------------
 This new and improved intake pipe works on land, gives pure water, and has max T3 base pressure without intake boosters!
 
-Available at RFC Shop!
+Available at Golden Mods Shop!
 
 Mega Nuke:
 ----------
@@ -176,7 +176,7 @@ Look no further! Introducing the Mega Nuke!
 
 This nuke is 10 times as powerful as mini nuke! It also comes in a throwable version!
 
-Pick up a mega nuke in RFC Shop and enjoy destroying hydroneer!
+Pick up a mega nuke in Golden Mods Shop and enjoy destroying hydroneer!
 
 God Drill:
 ----------
@@ -186,7 +186,7 @@ Save up your coins for the most expensive and most powerful drill ever created!
 
 Introducing God Drill!
 
-This mod brings God Drill to the RFC mod shop for a whopping $10,000,000!
+This mod brings God Drill to the Golden Mods Shop for a whopping $10,000,000!
 
 The God Drill produces raw resources straight from the chute bypassing the need for a harvester!
 
@@ -198,7 +198,7 @@ Golden Funnel:
 --------------
 Want a better funnel instead of the crappy default one?
 
-Buy a golden funnel at RFC mod shop today!
+Buy a golden funnel at Golden Mods Shop today!
 
 Also includes funnel extension tubes to eliminate dirt chunk losses for stacked drills!
 
@@ -212,7 +212,7 @@ The Golden Pan is larger than the regular pan so it will hold bigger items and h
 
 Buy the golden pan today for only 900 coins!
 
-Available at ember cradle, bridgepour, Icehelm, and RFC Shop!
+Available at ember cradle, bridgepour, Icehelm, and Golden Mods Shop!
 
 Golden Rod:
 -----------
@@ -222,17 +222,17 @@ Then get yourself a golden rod and have the power to catch fish instantly! No mo
 
 This rod catches rare fish at large size!
 
-Buy the golden rod at RFC Shop today!
+Buy the golden rod at Golden Mods Shop today!
 
 Golden Machines:
 ----------------
 Want fast T3 machines that mine bigger resources?
 
-Purchase the new and improved T3 Golden machines at RFC Shop today!
+Purchase the new and improved T3 Golden machines at Golden Mods Shop today!
 
 Buyable Creative Items:
 -----------------------
-You can now buy creative items at RFC Shop without being in creative mode!
+You can now buy creative items at Golden Mods Shop without being in creative mode!
 
 Golden Cart:
 ------------
@@ -240,7 +240,7 @@ Tired of carts being too small, slow, and clunky?
 
 The golden cart is super fast, super agile, and has wide open space for for loading large items!
 
-Buy a golden cart at RFC Shop today!
+Buy a golden cart at Golden Mods Shop today!
 
 Blundergust:
 ------------
@@ -250,7 +250,7 @@ Well now you can with the Blundergust!
 
 Just aim and shoot with left mouse click to fire a powerful gust of air that launches NPCs or your friends into the air!!
 
-The Blundergust is located on the table on ground floor of RFC shop and costs 500,000 hydrocoin.
+The Blundergust is located on the table on ground floor of Golden Mods Shop and costs 500,000 hydrocoin.
 
 Achievement Toggle
 -------------------
