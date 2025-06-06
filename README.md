@@ -251,11 +251,3 @@ Well now you can with the Blundergust!
 Just aim and shoot with left mouse click to fire a powerful gust of air that launches NPCs or your friends into the air!!
 
 The Blundergust is located on the table on ground floor of Golden Mods Shop and costs 500,000 hydrocoin.
-
-Achievement Toggle
--------------------
-Tired of achievements being disabled?
-
-Now you can turn them back on!
-
-Press F9 to show/hide checkbox.
